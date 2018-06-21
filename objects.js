@@ -1,0 +1,3 @@
+var playlist = {
+  chvrches: "graves"
+}
