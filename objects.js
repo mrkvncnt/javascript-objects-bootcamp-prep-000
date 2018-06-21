@@ -1,4 +1,4 @@
 var playlist = {
-  Slowdive: "Allison",
-  My Bloody Valentine: "Sometimes",
+  slowdive: "allison",
+  my bloody valentine: "sometimes",
 }
